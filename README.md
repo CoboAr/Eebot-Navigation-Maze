@@ -132,7 +132,3 @@ programming of the robot led it to change states accordingly with respect to sen
 allowing it to adhere to the electrical tape track and follow through the path and obstacles to its
 final destination, while outputting its battery voltage and state on the LCD indicator.
 
-
-Enjoy! And please do let me know if you have any comments, constructive criticism, and/or bug reports.
-## Author
-## Arnold Cobo
